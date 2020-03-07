@@ -18,3 +18,5 @@ Completed Updates:
 
 
 
+![app image 1 for v1.1](showcaseImages/V1.1_1.png)
+![app image 2 for v1.1](showcaseImages/V1.1_2.png)
