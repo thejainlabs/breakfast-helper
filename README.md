@@ -9,3 +9,5 @@ Planned Updates:
 5. Better UI
 6. Preparation companion video from youtube link
 7. Sharing on social media - with your pic/ etc /etc 
+8. dinner and lunch also
+9. Layout for all screen sizes (working only for iphone 11 now). Restrict to portrait only.
