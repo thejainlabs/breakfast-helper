@@ -17,4 +17,4 @@ Completed Updates:
 10. Add splash screen for my brand - 7.03.2020
 
 
-![app image 1 for v1](showcaseImages/V1.1_1.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![app image 2 for v1](showcaseImages/V1.1_2.png)
+
