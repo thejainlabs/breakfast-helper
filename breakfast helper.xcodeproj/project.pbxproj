@@ -35,7 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		40D674D82413554200819489 /* breakfast helper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "breakfast helper.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		40D674D82413554200819489 /* Breakfast Helper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Breakfast Helper.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		40D674DB2413554200819489 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		40D674DD2413554200819489 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		40D674DF2413554200819489 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -89,7 +89,7 @@
 		40D674D92413554200819489 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				40D674D82413554200819489 /* breakfast helper.app */,
+				40D674D82413554200819489 /* Breakfast Helper.app */,
 				40D674EE2413554600819489 /* breakfast helperTests.xctest */,
 				40D674F92413554600819489 /* breakfast helperUITests.xctest */,
 			);
@@ -145,7 +145,7 @@
 			);
 			name = "breakfast helper";
 			productName = "breakfast helper";
-			productReference = 40D674D82413554200819489 /* breakfast helper.app */;
+			productReference = 40D674D82413554200819489 /* Breakfast Helper.app */;
 			productType = "com.apple.product-type.application";
 		};
 		40D674ED2413554600819489 /* breakfast helperTests */ = {
@@ -442,9 +442,9 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.thejainlabs.breakfast-helper";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Breakfast Helper";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -460,9 +460,9 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.thejainlabs.breakfast-helper";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Breakfast Helper";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
