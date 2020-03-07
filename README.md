@@ -11,3 +11,6 @@ Planned Updates:
 7. Sharing on social media - with your pic/ etc /etc 
 8. dinner and lunch also
 9. Layout for all screen sizes (working only for iphone 11 now). Restrict to portrait only.
+10. Add splash screen for my brand
+
+![app image 1 for v1](showcaseImages/V1_1.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![app image 2 for v1](showcaseImages/V1_2.png)
