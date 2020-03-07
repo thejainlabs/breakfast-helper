@@ -10,7 +10,11 @@ Planned Updates:
 6. Preparation companion video from youtube link
 7. Sharing on social media - with your pic/ etc /etc 
 8. dinner and lunch also
-9. Layout for all screen sizes (working only for iphone 11 now). Restrict to portrait only.
-10. Add splash screen for my brand
 
-![app image 1 for v1](showcaseImages/V1_1.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![app image 2 for v1](showcaseImages/V1_2.png)
+
+Completed Updates:
+9. Layout for all screen sizes (working only for iphone 11 now). Restrict to portrait only - 7.03.2020
+10. Add splash screen for my brand - 7.03.2020
+
+
+![app image 1 for v1](showcaseImages/V1.1_1.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![app image 2 for v1](showcaseImages/V1.1_2.png)
